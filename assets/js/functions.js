@@ -690,7 +690,7 @@ Amplitude.init({
     },
     {
       "name": " Beracker Weniger",
-      "url": "./commercials/de-DE/bildungsmanagement/-beracker-weniger/1673453256359/commercial.mp3",
+      "url": "./commercials/de-DE/bildungsmanagement/beracker-weniger/1673453256359/commercial.mp3",
       "artist": "Bildungsmanagement",
       "cover_art_url": "assets/img/krang/krang-radio-060.jpg"
     },
@@ -1095,7 +1095,37 @@ Amplitude.init({
       "url": "./commercials/de-DE/religi-se-einrichtungen/n-h-ug/1673453862182/commercial.mp3",
       "artist": "Religi Se Einrichtungen",
       "cover_art_url": "assets/img/krang/krang-radio-032.jpg"
-    }   
+    },
+    {
+      "name": "Innovation And Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-innovation-and-advertising-come-together.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Future Of Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-future-of-advertising-is-now.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Power Of AI",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-power-of-ai-technology-meets-the-world-of-advertising.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Technology Leads",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-leads-the-way-in-advertisemen.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Meets Advertising",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-meets-advertising-excellence.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    }
   ]
 });
 
